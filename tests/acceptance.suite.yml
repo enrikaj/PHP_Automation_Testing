@@ -11,3 +11,5 @@ modules:
             url: https://bank.paysera.com/
             browser: chrome
         - \Helper\Acceptance
+params:
+  - auth_params.yml
